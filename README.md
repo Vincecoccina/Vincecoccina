@@ -21,6 +21,7 @@ src="https://cdn.cdnlogo.com/logos/p/44/php.svg" />
 src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg" />
 <img align="left" alt="sass" width="35px" style="padding-right:10px;" 
 src="https://cdn.cdnlogo.com/logos/s/90/sass.svg" />
+<br />
 <img align="left" alt="Wordpress" width="50px" style="padding-right:10px;" 
 src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
