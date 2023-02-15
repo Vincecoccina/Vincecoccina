@@ -13,9 +13,15 @@ I work as a fullstack developer. I'm based in Paris, France.
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="mongoDB" width="30px" style="padding-right:10px;" 
 src="https://cdn.cdnlogo.com/logos/m/30/mongodb-icon.svg" />
-<img align="left" alt="PHP" width="30px" style="padding-right:10px;" 
+<img align="left" alt="nextjs" width="30px" style="padding-right:10px;" 
+src="https://cdn.cdnlogo.com/logos/n/80/next-js.svg" />
+<img align="left" alt="PHP" width="40px" style="padding-right:10px;" 
 src="https://cdn.cdnlogo.com/logos/p/44/php.svg" />
-<img align="left" alt="Wordpress" width="30px" style="padding-right:10px;" 
+<img align="left" alt="bootstrap" width="35px" style="padding-right:10px;" 
+src="https://cdn.cdnlogo.com/logos/b/74/bootstrap-5.svg" />
+<img align="left" alt="sass" width="35px" style="padding-right:10px;" 
+src="https://cdn.cdnlogo.com/logos/s/90/sass.svg" />
+<img align="left" alt="Wordpress" width="50px" style="padding-right:10px;" 
 src="https://cdn.cdnlogo.com/logos/w/65/wordpress.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
